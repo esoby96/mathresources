@@ -28,4 +28,3 @@ $h = b \times sin A$
 | a ≥ b | 1 |
   </div>
 </div>
-
